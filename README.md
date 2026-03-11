@@ -1,6 +1,6 @@
 # Greenhouse-CO-Prediction-System-using-Deep-Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1GDTBjojGMrXzJGBtLagfIp5v97C4xR3z?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GDTBjojGMrXzJGBtLagfIp5v97C4xR3z?usp=sharing)
 
 ---
 
